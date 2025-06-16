@@ -5,17 +5,35 @@ Aplicativo Flutter de feed social, desenvolvido como parte de um teste técnico.
 ---
 
 ## 🖼️ Demonstração
-<h3>Home - Tema Claro</h3>
-<img src="https://github.com/user-attachments/assets/e14a7f8a-bcf8-4ddb-9ee8-dc9b4b60b300" width="200"/>
 
-<h3>Home - Tema Escuro</h3>
-<img src="https://github.com/user-attachments/assets/4b8aadb5-c460-4cd2-ae1f-fbf850006776" width="200"/>
+<h3>Telas Home</h3>
 
-<h3>Detalhe - Tema Claro</h3>
-<img src="https://github.com/user-attachments/assets/ac55e64f-12b0-4d1b-a876-f1766f0559f6" width="200"/>
+<table>
+  <tr>
+    <th>Home - Tema Claro</th>
+    <th>Home - Tema Escuro</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e14a7f8a-bcf8-4ddb-9ee8-dc9b4b60b300" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4b8aadb5-c460-4cd2-ae1f-fbf850006776" width="200"/></td>
+  </tr>
+</table>
 
-<h3>Detalhe - Tema Escuro</h3>
-<img src="https://github.com/user-attachments/assets/727d3b5d-e7bb-43a6-8119-14d8a0f48bce" width="200"/>
+<br/>
+
+<h3>Telas de Detalhe</h3>
+
+<table>
+  <tr>
+    <th>Detalhe - Tema Claro</th>
+    <th>Detalhe - Tema Escuro</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ac55e64f-12b0-4d1b-a876-f1766f0559f6" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/727d3b5d-e7bb-43a6-8119-14d8a0f48bce" width="200"/></td>
+  </tr>
+</table>
+
 
 
 
